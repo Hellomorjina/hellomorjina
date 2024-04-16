@@ -52,25 +52,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hellomorjina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hellomorjina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="124" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Hellomorjina/count.svg?"  />
-</div>
-
-###
