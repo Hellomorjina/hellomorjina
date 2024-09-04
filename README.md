@@ -1,18 +1,14 @@
-<div align="center">
-  <img height="150" src="https://mir-s3-cdn-cf.behance.net/user/276/1e983b1785444279.666dbcab1275d.jpg"  />
-</div>
+<h1 align="center">Hello, I am Morjina.👋</h1>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
-
-###
-
-<h1 align="center">Hello, I am Morjina.👋</h1>
 
 ###
 
